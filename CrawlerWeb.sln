@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CrawlerWeb", "CrawlerWeb\CrawlerWeb.njsproj", "{A3B47E5E-3992-494E-A06E-53C2381450E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B47E5E-3992-494E-A06E-53C2381450E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B47E5E-3992-494E-A06E-53C2381450E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B47E5E-3992-494E-A06E-53C2381450E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B47E5E-3992-494E-A06E-53C2381450E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
